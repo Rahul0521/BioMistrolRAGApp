@@ -31,15 +31,15 @@ This repository contains the source code for the Bio Mistrol RAG (Random Access 
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/username/bio-mistrol-rag-app.git`
-2. Install Python dependencies: `pip install -r requirements.txt`
-3. Compile C++ components: `make`
+1. Clone this repository: ```git clone https://github.com/username/bio-mistrol-rag-app.git```
+2. Install Python dependencies: ```pip install -r requirements.txt```
+3. Compile C++ components: ```make```
 4. Follow additional setup instructions for FastAPI, HTML/CSS/JS, Llama, and Qdrant Cloud as per their respective documentation.
 
 ## Usage
 
 1. Ensure all dependencies are installed and configured.
-2. Run the app: `python main.py`
+2. Run the app: ```python app.py```
 3. Access the frontend interface via a web browser and follow the instructions for generating random access patterns and performing bioinformatics tasks.
 
 ## Contributing
