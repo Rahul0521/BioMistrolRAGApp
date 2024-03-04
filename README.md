@@ -1,3 +1,7 @@
+
+
+https://github.com/Rahul0521/BioMistrolRAGApp/assets/38578247/dc4d6240-6300-4de6-a87d-11f6e41776d1
+
 # BioMistrolRAGApp
 RAG App with Bio Mistrol, Pubmed, Sentence Transformer,Lama-Cpp
 
