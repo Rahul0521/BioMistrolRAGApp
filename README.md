@@ -5,6 +5,7 @@ RAG App with Bio Mistrol, Pubmed, Sentence Transformer,Lama-Cpp
 
 
 
+![RAG App](https://github.com/Rahul0521/BioMistrolRAGApp/assets/38578247/6e8af8af-b31d-42b5-b8a9-30b2bd2d1df9)
 
 
 # Bio Mistrol RAG App
